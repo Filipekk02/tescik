@@ -1,0 +1,63 @@
+body {
+    width: 100%;
+    margin: 0;
+}
+
+.baner {
+    background-color: #4B4719;
+    width: 1920px;
+    height: 100px;
+}
+
+.wyslij {
+    width: 100%;
+    height: 500px;
+    background-color: black;
+    color: white;
+}
+
+.formularz {
+    position: absolute;
+    width: 1200px;
+    height: 350px;
+    margin-top: 75px;
+    margin-bottom: 75px;
+    margin-left: 150px;
+    background-color: black;
+    color: white;
+}
+
+.stopka {
+    width: 100%;
+    height: 40px;
+    background-color: grey;
+    color: white;
+    text-align: center;
+    padding-top: 20px;
+}
+
+.mail {
+    width: 250px;
+    height: 20px;
+    font-size: 20px;
+}
+
+.numer {
+    width: 250px;
+    height: 20px;
+    margin-top: 10px;
+    font-size: 20px;
+}
+
+.text {
+    width: 800px;
+    height: 150px;
+    margin-top: 10px;
+    font-size: 20px;
+}
+
+.submit {
+    width: 808px;
+    height: 30px;
+    margin-top: 10px;
+}
